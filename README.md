@@ -5,6 +5,6 @@
 
   # AnushkaG2509's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[anushkag2509.github.io/soma-lab](https://anushkag2509.github.io/soma-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
