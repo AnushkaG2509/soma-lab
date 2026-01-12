@@ -3,7 +3,7 @@
 
 # AnushkaG2509's Website
 
-An engaging 1-3 sentence description of your lab.
+At SOMa Lab, our research seeks to reveal how cells organize and interact within tissues to maintain health, and how this organisation gets disrupted in response to genetic, cellular, or environmental perturbations leading to disease. To address these questions, we develop and utilize innovative spatial multi-omics solutions, along with bioinformatics methods for integrative analysis of multimodal datasets. These tools allow us to investigate some of the most pressing issues in cancer metastasis and therapy resistance, lung remodeling due to air pollutants, and adipose biology. Through our work, we aim to uncover fundamental molecular mechanisms driving health and disease, and identify novel drug targets that could lead to more effective therapies.
 
 {% include section.html %}
 
