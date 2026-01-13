@@ -2,7 +2,7 @@
 title: HOME
 nav:
   order: 1
-header: images/golden_gate.jpeg
+header: images/Header.jpeg
 ---
 
 # _S_patial _O_mics and Bioinfor_MA_tics Lab (SOMA)
