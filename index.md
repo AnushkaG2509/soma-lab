@@ -1,4 +1,5 @@
 ---
+title: HOME
 ---
 
 # _S_patial _O_mics and Bioinfor_MA_tics Lab (SOMA)
