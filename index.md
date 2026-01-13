@@ -2,7 +2,7 @@
 title: HOME
 nav:
   order: 1
-header: images/Visium_HD_Human_Colon_Cancer_cloupe_008um.png
+header: images/golden_gate.jpeg
 ---
 
 # _S_patial _O_mics and Bioinfor_MA_tics Lab (SOMA)
