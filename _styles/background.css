@@ -18,4 +18,13 @@
   z-index: -1;
 }
 
+.background:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 0;
+  pointer-events: none;
+}
+
 /*# sourceMappingURL=background.css.map */
