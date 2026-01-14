@@ -136,6 +136,7 @@ header[data-big] .title-text {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  gap: 12px;
 }
 header[data-big] .title {
   font-size: calc(var(--xxl) * 1.15);
@@ -143,7 +144,8 @@ header[data-big] .title {
   letter-spacing: 0.03em;
 }
 header[data-big] .subtitle {
-  font-size: var(--large);
+  font-size: calc(var(--large) * 1.05);
+  margin-top: 10px;
 }
 
 /*# sourceMappingURL=header.css.map */
