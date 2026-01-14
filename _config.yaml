@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Spatial Omics and Bioinformatica Lab
+title: Spatial Omics and Bioinformatics Lab
 subtitle: Department of Biotechnology, IIT Madras 
 description: 
 header: images/Header.jpg
-footer: images/background.jpg
+footer: images/Header.jpg
 proofer: false
 
 # site social media and other links
