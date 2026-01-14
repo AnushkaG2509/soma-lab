@@ -27,4 +27,9 @@
   pointer-events: none;
 }
 
+.background > * {
+  position: relative;
+  z-index: 1;
+}
+
 /*# sourceMappingURL=background.css.map */
