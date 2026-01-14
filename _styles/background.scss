@@ -29,3 +29,8 @@
   z-index: 0;
   pointer-events: none;
 }
+
+.background > * {
+  position: relative;
+  z-index: 1;
+}
