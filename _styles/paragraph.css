@@ -2,7 +2,8 @@ p {
   margin: 20px 0;
   text-align: justify;
   line-height: var(--spacing);
-  font-size: 1.5rem; /* Increased font size */
+  line-height: 1.8; /* Adjusted line-height */
+  font-size: 1.2rem; /* Increased font size */
 }
 
 /*# sourceMappingURL=paragraph.css.map */
