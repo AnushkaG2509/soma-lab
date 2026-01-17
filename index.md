@@ -4,13 +4,21 @@ nav:
   order: 1
 ---
 
-# _S_patial _O_mics and Bioinfor_MA_tics Lab (SOMA)
+# SOMA Lab: *S*patial *O*mics and Bioinfor*ma*tics Lab
+## Department of Biotechnology, IIT Madras
 
-At SOMa Lab, we’re pushing the boundaries of science by developing the next-generation of scalable, cost-optimized, and highly-sensitive spatial multi-omics tools to study human health and disease. Our research aims to understand how cells of different types and states organize and interact within tissues to maintain homeostasis, and how these interactions are disrupted in disease. To address these questions, we leverage advanced techniques from single-cell multiomics, spatial barcoding, high-resolution imaging, and next-generation sequencing, alongside computational approaches rooted in statistical modeling, network analysis, and machine learning for integrative multimodal data analysis. These tools enable us to investigate some of the most pressing issues, including cancer metastasis and therapy resistance, lung remodeling in response to air pollutants, and adipose tissue dysfunction in diabetes.
+### What We Do
+
+The SOMa Lab develops and applies next-generation spatial multi-omics technologies to study human health and disease. Using ethically sourced human samples and patient-derived disease models, we investigate how cells of different types and states are organized within tissues, how they interact to maintain homeostasis, and how these interactions are disrupted in disease. Our work integrates spatial and single-cell multi-omics, high-resolution imaging, next-generation sequencing, and computational methods for multimodal data analysis.
+
+### Our Mission & Philosophy
+
+Our research is driven by clinically urgent problems that are affecting patients today. We operate at the interface of basic, translational, and clinical research, using clinically informed questions to guide tool development. Through close collaboration with clinicians, hospitals, and industry partners, our goal is to translate spatial multi-omics insights into actionable outcomes—enabling biomarker discovery, patient stratification, and therapeutic development that ultimately improve patient care.
+
 
 {% include section.html %}
 
-## Highlights
+## Explore SOMa Lab
 
 {% capture text %}
 
