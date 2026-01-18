@@ -140,13 +140,13 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: calc(var(--xxl) * 1.3);
+  font-size: calc(var(--xxl) * 1.4);
   line-height: 1.05;
   letter-spacing: 0.03em;
   font-weight: var(--regular);
 }
 header[data-big] .subtitle {
-  font-size: calc(var(--large) * 1.3);
+  font-size: calc(var(--large) * 1.6);
   margin-bottom: 30px;
 }
 
