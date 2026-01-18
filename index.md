@@ -4,8 +4,8 @@ nav:
   order: 1
 ---
 
-# SOMA Lab: *S*patial *O*mics and Bioinfor*ma*tics Lab
-## Department of Biotechnology, IIT Madras
+# SOMA Lab: <u><i>S<u><i>patial <u><i>O<u><i>mics and Bioinfor<u><i>ma<u><i>tics Lab
+####### Department of Biotechnology, IIT Madras
 
 ### What We Do
 
