@@ -137,7 +137,7 @@ header:not([data-big]) {
 header[data-big] {
   justify-content: flex-start;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   padding: $big-padding 10px;
 
   @if $sticky {
