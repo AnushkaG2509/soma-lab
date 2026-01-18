@@ -5,7 +5,7 @@ nav:
 ---
 
 # <u><i>S</i></u>patial <u><i>O</i></u>mics & Bioinfor<u><i>ma</i></u>tics (SOMa) Lab
-####### Department of Biotechnology, IIT Madras
+<span class="h7">Department of Biotechnology, IIT Madras</span>
 
 ### What We Do
 
