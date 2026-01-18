@@ -135,7 +135,7 @@ header:not([data-big]) {
 }
 
 header[data-big] {
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   padding: $big-padding 10px;
@@ -169,6 +169,5 @@ header[data-big] {
 
   .subtitle {
     font-size: calc(var(--large) * 1.6);
-    margin-bottom: 30px;
   }
 }
