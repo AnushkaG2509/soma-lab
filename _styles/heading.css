@@ -43,7 +43,7 @@ h6 {
 
 .h7 {
   font-size: 1.6rem;
-  text-align: center;
+  text-align: center !important;
   font-weight: var(--Thin);
 }
 
