@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-# <u><i>S</i></u>patial <u><i>O</i></u>mics & Bioinfor<u><i>ma</i></u>tics (SOMa) Lab
+# ***S***patial ***O***mics & Bioinfor***ma***tics (SOMa) Lab
 <span class="h7">Department of Biotechnology, IIT Madras</span>
 
 ### What We Do
