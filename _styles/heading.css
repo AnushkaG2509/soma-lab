@@ -1,3 +1,4 @@
+h7,
 h1,
 h2,
 h3,
@@ -13,9 +14,8 @@ h6 {
 
 h1 {
   margin: 40px 0;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: var(--regular);
-  text-transform: uppercase;
   text-align: center;
 }
 
@@ -40,6 +40,12 @@ h5 {
 
 h6 {
   font-size: 1rem;
+}
+
+h7 {
+  font-size: 1.6rem;
+  text-align: center;
+  font-weight: var(--Thin);
 }
 
 :where(h1, h2, h3, h4, h5, h6) > .icon {
