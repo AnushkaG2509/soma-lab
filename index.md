@@ -6,7 +6,7 @@ nav:
 
 ### What We Do
 
-The SOMa Lab develops and applies next-generation spatial multi-omics technologies to study human health and disease. Using ethically sourced human samples and patient-derived disease models, we investigate how cells of different types and states are organized within tissues, how they interact to maintain homeostasis, and how these interactions are disrupted in disease. Our work integrates spatial and single-cell multi-omics, high-resolution imaging, next-generation sequencing, and computational methods for multimodal data analysis.
+Welcome to the SOMa Lab at IIT Madras! Our lab develops and applies next-generation spatial multi-omics technologies to study human health and disease. Using ethically sourced human samples and patient-derived disease models, we investigate how cells of different types and states are organized within tissues, how they interact to maintain homeostasis, and how these interactions are disrupted in disease. Our work integrates spatial and single-cell multi-omics, high-resolution imaging, next-generation sequencing, and computational methods for multimodal data analysis.
 
 ### Our Mission & Philosophy
 
