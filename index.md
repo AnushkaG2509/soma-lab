@@ -34,7 +34,7 @@ We are using spatial-multiomics tools to investigate cancer metastasis and thera
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="projects"
   title="Our Research"
   flip=true
