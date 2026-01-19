@@ -23,7 +23,7 @@ We are using spatial-multiomics tools to investigate cancer metastasis and thera
 
 {%
   include button.html
-  link="research"
+  link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -35,7 +35,7 @@ We are using spatial-multiomics tools to investigate cancer metastasis and thera
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="projects"
   title="Our Research"
   flip=true
   style="bare"
@@ -47,7 +47,7 @@ We are using spatial-multiomics tools to investigate cancer metastasis and thera
 Our publications span technology development, computational methods, and disease-focused studies. Read more about our recent work on a new spatial transcriptomics platform, adipose tissue dysfunction in obesity, and integrative analysis of scRNA-seq and snRNA-seq datasets.
 {%
   include button.html
-  link="Publications"
+  link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -59,7 +59,7 @@ Our publications span technology development, computational methods, and disease
 {%
   include feature.html
   image="images/photo.jpg"
-  link="Publications"
+  link="research"
   title="Our Publications"
   text=text
 %}
