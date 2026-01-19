@@ -44,11 +44,10 @@ We are using spatial-multiomics tools to investigate some of the most pressing i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our publications span technology development, computational methods, and disease-focused studies. Read more about our recent work on development of a new spatial transcriptomics platform, adipose tissue dysfunction in obesity, and integrative analysis of single-cell and single-nuclei RNA-seq datasets.
 {%
   include button.html
-  link="research"
+  link="Publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -60,15 +59,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="Publications"
+  title="See our publications"
   text=text
 %}
 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab, we are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Gupta [Link text] (anushkagupta2509@gmail.com) and include a CV with your research interests.
 
 {%
   include button.html
@@ -86,5 +85,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+Spatial multi-omics enables high-resolution mapping of cellular architecture and communication in intact tissues by integrating transcriptomic, proteomic, and other molecular layers. If you have a biological or clinical question where spatial context could provide new insight, we collaborate closely—from study design and sample collection to data generation and integrative analysis. We would love to hear from you and explore how we can work together.
+
+{%
+  include button.html
+  link="contact"
+  text="Contact Us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="contact"
+  title="Collaborators and Partnerships"
   text=text
 %}
