@@ -19,7 +19,7 @@ Our research is driven by clinically urgent problems that are affecting patients
 
 {% capture text %}
 
-We are using spatial-multiomics tools to investigate some of the most pressing issues, including cancer metastasis and therapy resistance, lung remodeling in response to air pollutants, and adipose tissue dysfunction in diabetes. Learn more about the technology and how we apply it to research problems here.
+We are using spatial-multiomics tools to investigate cancer metastasis and therapy resistance, lung remodeling in response to air pollutants, and adipose tissue dysfunction in diabetes. Learn more about the technology and how we apply it to research problems here.
 
 {%
   include button.html
@@ -44,7 +44,7 @@ We are using spatial-multiomics tools to investigate some of the most pressing i
 
 {% capture text %}
 
-Our publications span technology development, computational methods, and disease-focused studies. Read more about our recent work on development of a new spatial transcriptomics platform, adipose tissue dysfunction in obesity, and integrative analysis of single-cell and single-nuclei RNA-seq datasets.
+Our publications span technology development, computational methods, and disease-focused studies. Read more about our recent work on a new spatial transcriptomics platform, adipose tissue dysfunction in obesity, and integrative analysis of scRNA-seq and snRNA-seq datasets.
 {%
   include button.html
   link="Publications"
@@ -61,8 +61,6 @@ Our publications span technology development, computational methods, and disease
   image="images/photo.jpg"
   link="Publications"
   title="Our Publications"
-  flip=true
-  style="bare"
   text=text
 %}
 
@@ -94,7 +92,7 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
 
 {% capture text %}
 
-Spatial multi-omics enables high-resolution mapping of cellular architecture and communication in intact tissues by integrating transcriptomic, proteomic, and other molecular layers. If you have a biological or clinical question where spatial context could provide new insight, we collaborate closely, from study design and sample collection strategy, to data generation and integrative analysis.
+Spatial multi-omics enables mapping cellular architecture and communication in tissues by integrating transcriptomic, proteomic, and other omic layers. If you have a question where spatial context could provide new insight, we collaborate closely, from study design and sample collection strategy, to data generation and integrative analysis.
 
 {%
   include button.html
@@ -112,7 +110,5 @@ Spatial multi-omics enables high-resolution mapping of cellular architecture and
   image="images/photo.jpg"
   link="contact"
   title="Collaborators and Partnerships"
-  flip=true
-  style="bare"
   text=text
 %}
