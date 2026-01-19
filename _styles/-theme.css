@@ -23,10 +23,10 @@
 }
 
 :root {
-  --title: "Work Sans", sans-serif;
-  --heading: "Work Sans", sans-serif;
-  --body: "Work Sans", sans-serif;
-  --code: "Roboto Mono", monospace;
+  --title: "Inter", sans-serif;
+  --heading: "Inter", sans-serif;
+  --body: "Inter", sans-serif;
+  --code: "Inter", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
