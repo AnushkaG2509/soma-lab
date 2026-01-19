@@ -60,14 +60,16 @@ Our publications span technology development, computational methods, and disease
   include feature.html
   image="images/photo.jpg"
   link="Publications"
-  title="See our publications"
+  title="Our Publications"
+  flip=true
+  style="bare"
   text=text
 %}
 
 
 {% capture text %}
 
-Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab, we are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Gupta [Link text] (anushkagupta2509@gmail.com) and include a CV with your research interests.
+Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab, we are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! Please [contact Prof. Gupta](mailto:anushkagupta2509@gmail.com) and include a CV with your research interests.
 
 {%
   include button.html
@@ -85,17 +87,19 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  flip=true
+  style="bare"
   text=text
 %}
 
 {% capture text %}
 
-Spatial multi-omics enables high-resolution mapping of cellular architecture and communication in intact tissues by integrating transcriptomic, proteomic, and other molecular layers. If you have a biological or clinical question where spatial context could provide new insight, we collaborate closely—from study design and sample collection to data generation and integrative analysis. We would love to hear from you and explore how we can work together.
+Spatial multi-omics enables high-resolution mapping of cellular architecture and communication in intact tissues by integrating transcriptomic, proteomic, and other molecular layers. If you have a biological or clinical question where spatial context could provide new insight, we collaborate closely, from study design and sample collection strategy, to data generation and integrative analysis.
 
 {%
   include button.html
   link="contact"
-  text="Contact Us"
+  text="Contact us"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -108,5 +112,7 @@ Spatial multi-omics enables high-resolution mapping of cellular architecture and
   image="images/photo.jpg"
   link="contact"
   title="Collaborators and Partnerships"
+  flip=true
+  style="bare"
   text=text
 %}
