@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Inter", sans-serif;
-  --heading: "Inter", sans-serif;
-  --body: "Inter", sans-serif;
+  --title: "Barlow", sans-serif;
+  --heading: "Barlow", sans-serif;
+  --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
@@ -34,8 +34,8 @@
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
-  --spacing: 1.5;
-  --compact: 1.15;
+  --spacing: 1;
+  --compact: 1;
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
