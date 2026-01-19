@@ -92,7 +92,7 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
 
 {% capture text %}
 
-Spatial multi-omics enables mapping cellular architecture and communication in tissues by integrating transcriptomic, proteomic, and other omic layers. If you have a question where spatial context could provide new insight, we collaborate closely, from study design and sample collection strategy, to data generation and integrative analysis.
+Spatial multi-omics enables mapping cellular architecture and communication *in-situ* by integrating transcriptomic, proteomic, and other omic layers. If you have a question where spatial context could provide new insight, we collaborate closely, from study design and sample collection strategy, to data generation and multimodal analysis.
 
 {%
   include button.html
