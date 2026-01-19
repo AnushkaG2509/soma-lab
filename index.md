@@ -19,6 +19,31 @@ Our research is driven by clinically urgent problems that are affecting patients
 
 {% capture text %}
 
+We are using spatial-multiomics tools to investigate some of the most pressing issues, including cancer metastasis and therapy resistance, lung remodeling in response to air pollutants, and adipose tissue dysfunction in diabetes. Learn more about the technology and how we apply it to research problems here.
+
+{%
+  include button.html
+  link="research"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
@@ -40,30 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
