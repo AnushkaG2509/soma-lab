@@ -58,7 +58,7 @@ Our publications span technology development, computational methods, and disease
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publication.jpg"
   link="research"
   title="Our Publications"
   text=text
