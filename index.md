@@ -82,7 +82,7 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ChatGPT Image Jan 21, 2026, 12_12_05 PM.png"
   link="team"
   title="Our Team"
   flip=true
