@@ -82,7 +82,7 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
 
 {%
   include feature.html
-  image="images/ChatGPT Image Jan 21, 2026, 12_12_05 PM.png"
+  image="images/team.png"
   link="team"
   title="Our Team"
   flip=true
@@ -107,7 +107,7 @@ Spatial multi-omics enables mapping cellular architecture and communication *in-
 
 {%
   include feature.html
-  image="images/IIT Madras_idSRvDXafD_0.png"
+  image="images/colab.png"
   link="contact"
   title="Collaborators and Partnerships"
   text=text
