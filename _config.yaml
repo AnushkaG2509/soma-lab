@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@AnushkaG2509.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: AnushkaG2509
+  email: anushkagupta2509@gmail.com
+  orcid: 0000-0002-1137-3043
+  google-scholar: lvn04sUAAAAJ
+  linkedin: anushkag
   twitter: AnushkaG2509
-  youtube: AnushkaG2509
 
 ### jekyll settings
 
