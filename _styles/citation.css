@@ -33,7 +33,7 @@
   max-width: 100%;
   height: min-content;
   padding: 20px;
-  padding-left: 30px;
+  padding-left: 20px;
   text-align: left;
   overflow-wrap: break-word;
   z-index: 0;
@@ -89,8 +89,7 @@
     flex-direction: column;
   }
   .citation-image {
-    width: unset;
-    height: 180px;
+    display: none;
   }
 }
 
