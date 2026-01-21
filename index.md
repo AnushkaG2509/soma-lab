@@ -107,7 +107,7 @@ Spatial multi-omics enables mapping cellular architecture and communication *in-
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IIT Madras_idSRvDXafD_0.png"
   link="contact"
   title="Collaborators and Partnerships"
   text=text
