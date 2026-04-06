@@ -16,7 +16,7 @@ Our work draws on concepts from bioinformatics, integrative multi-omics, spatial
 
 {% include section.html %}
 
-### Our Mission & Philosophy Test
+### Our Mission & Philosophy Test 2
 
 {% capture text %}
 
