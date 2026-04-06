@@ -56,7 +56,6 @@ We are developing novel single-cell and spatial multi-omics technologies, togeth
   link="projects"
   title="Our Research"
   flip=true
-  style="bare"
   text=text
 %}
 
@@ -104,7 +103,6 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
   link="team"
   title="Our Team"
   flip=true
-  style="bare"
   text=text
 %}
 
