@@ -16,7 +16,7 @@ Our work draws on concepts from bioinformatics, integrative multi-omics, spatial
 
 {% include section.html %}
 
-### Our Mission & Philosophy
+### Our Mission & Philosophy Test
 
 {% capture text %}
 
@@ -27,8 +27,6 @@ We are a group of curiosity‑driven scientists motivated by problems that matte
 {%
   include figure.html
   image="images/ibse.png"
-  flip=true
-  text=text
 %}
 
 {% include section.html %}
