@@ -16,14 +16,14 @@ Our work draws on concepts from bioinformatics, integrative multi-omics, spatial
 
 {% include section.html %}
 
-### Our Mission & Philosophy Test 3
+### Our Mission & Philosophy Test 4
 
 We are a group of curiosity‑driven scientists motivated by problems that matter to researchers, biologists, and clinicians today. To identify and tackle the right questions, we rely on strong multi-institutional and multi-disciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
 
 {%
   include figure.html
   image="images/ibse.png"
-  text=text
+  width="100px"
 %}
 
 {% include section.html %}
