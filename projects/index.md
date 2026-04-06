@@ -14,11 +14,15 @@ We are developing novel single-cell and spatial multi-omics technologies, togeth
 
 ## Next-generation single-cell and spatial multi-omics
 
-Single-cell omics encompasses a rapidly evolving suite of technologies that enable comprehensive characterization of molecular and morphological features defining individual cells at high throughput. Spatially resolved omic techniques extend this capability by retaining the native tissue architecture, while multi-omic approaches integrate measurement of several features within the same cells. Collectively, these developments have reshaped how we investigate biological complexity across development, physiology, and disease.
+Single-cell omics encompasses a rapidly evolving suite of technologies that enable comprehensive molecular characterization of individual cells at high throughput. Spatially resolved omic techniques extend this capability by retaining the native tissue architecture, while multi-omic approaches integrate measurement of several features within the same cells.
 
-Our lab is focused on advancing the next generation of such technologies, by developing systems that unify single-cell resolution, spatial context, and multi-omic measurement within a single experimental framework. To achieve this, we are developing modular and adaptable assays that can interface with and extend existing commercial platforms, enabling them to access new modes of measurement. In parallel, we recognize the high cost of existing commercial platforms for many research settings, and hence, in our lab, we systematically probe their design and performance limits to engineer cost-efficient adaptations. Through these efforts, our goal is to democratize access to advanced, high-content cellular measurements while pushing the conceptual boundaries of what single-cell and spatial omics can reveal.
+Our lab is focused on advancing the next generation of such technologies, by developing systems that unify single-cell resolution, spatial context, and multi-omic measurement within a single experimental framework. To achieve this, we are developing modular and adaptable assays that can interface with and extend existing commercial platforms, enabling them to access new modes of measurement. In parallel, we recognize the high cost of existing commercial platforms for many research settings, and hence, in our lab, we systematically probe their design and performance limits to engineer cost-efficient adaptations. 
 
-To learn more about our work in this area, see our publications on non-destructive optical imaging for linking genotype and phenotype in single cells, methods for single-cell resolution metabolic imaging and transcriptomic profiling, and the development of a novel spatial transcriptomic platform with single-cell resolution.
+{%
+  include figure.html
+  image="images/aim1.002.png"
+  width="800px"
+%}
 
 ## Bioinformatic methods for single-cell and spatial multi-omics
 
