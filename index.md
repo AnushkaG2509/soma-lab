@@ -27,6 +27,7 @@ We are a group of curiosity‑driven scientists motivated by problems that matte
 {%
   include figure.html
   image="images/ibse.png"
+  text=text
 %}
 
 {% include section.html %}
