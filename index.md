@@ -4,14 +4,19 @@ nav:
   order: 1
 ---
 
-### What We Do
+### Welcome to the SOMa Lab
 
-Welcome to the SOMa Lab at IIT Madras! Our lab develops and applies next-generation spatial multi-omics technologies to study human health and disease. Using ethically sourced human samples and patient-derived disease models, we investigate how cells of different types and states are organized within tissues, how they interact to maintain homeostasis, and how these interactions are disrupted in disease. Our work integrates spatial and single-cell multi-omics, high-resolution imaging, next-generation sequencing, and computational methods for multimodal data analysis.
+The SOMa Lab develops and applies next-generation single-cell and spatial multi-omics technologies, alongside advanced computational methods, to decode how cells organize and interact to sustain healthy tissues, and how these interactions collapse in disease.
+
+### Our Approach
+
+We connect clinical samples and patient-derived disease models with in-house developed spatial omic technologies, and biology‑ and measurement‑aware computational approaches to push the boundaries of what can be measured and understood in tissues, generating unprecedented insight into the cellular basis of health and disease.
+
+Our work draws on concepts from bioinformatics, integrative multi-omics, spatial barcoding, assay development, quantitative optical imaging, and next-generation sequencing.
 
 ### Our Mission & Philosophy
 
-Our research is driven by clinically urgent problems that are affecting patients today. We operate at the interface of basic, translational, and clinical research, using clinically informed questions to guide tool development. Through close collaboration with clinicians, hospitals, and industry partners, our goal is to translate spatial multi-omics insights into actionable outcomes—enabling biomarker discovery, patient stratification, and therapeutic development that ultimately improve patient care.
-
+We are a group of curiosity‑driven scientists motivated by problems that matter to researchers, biologists, and clinicians today. To identify and tackle the right questions, we rely on strong multi-institutional and multi-disciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
 
 {% include section.html %}
 
@@ -19,7 +24,7 @@ Our research is driven by clinically urgent problems that are affecting patients
 
 {% capture text %}
 
-We are using spatial-multiomics tools to investigate cancer metastasis and therapy resistance, lung remodeling in response to air pollutants, and adipose tissue dysfunction in diabetes. Learn more about the technology and how we apply it to research problems here.
+We are developing novel single-cell and spatial multi-omics technologies, together with advanced computaional methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as adipose tissue dysfunction in diabetes, immuno-oncology, and cancer metastasis & therapy resistance. Learn more about the technology, our developed computational methods and how we apply it to research problems here.
 
 {%
   include button.html
@@ -67,7 +72,7 @@ Our publications span technology development, computational methods, and disease
 
 {% capture text %}
 
-Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab, we are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! Please [contact Prof. Gupta](mailto:anushkagupta2509@gmail.com) and include a CV with your research interests.
+Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab, we are actively looking for highly motivated and curious undergraduate, graduate (Masters/PhD), post-doctoral, and project associate candidates to join our team! Please [contact Prof. Gupta](mailto:agupta@iitm.ac.in) and include a CV with your research interests.
 
 {%
   include button.html
@@ -92,7 +97,7 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
 
 {% capture text %}
 
-Spatial multi-omics enables mapping cellular architecture and communication *in-situ* by integrating transcriptomic, proteomic, and other omic layers. If you have a question where spatial context could provide new insight, we collaborate closely, from study design and sample collection strategy, to data generation and multimodal analysis.
+We are always looking to collaborate with researchers, biologists, and clinicians to identify biological questions where spatial context, multimodal measurements, and integrative analysis are essential for new insights. To explore potential collaborations, reach out at agupta@iitm.ac.in. 
 
 {%
   include button.html
