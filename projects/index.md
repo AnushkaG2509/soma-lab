@@ -12,7 +12,7 @@ We are developing novel single-cell and spatial multi-omics technologies, togeth
 
 {% include section.html %}
 
-## Developing next-generation single-cell and spatial multi-omics technologie
+## Next-generation single-cell and spatial multi-omics
 
 Single-cell omics encompasses a rapidly evolving suite of technologies that enable comprehensive characterization of molecular and morphological features defining individual cells at high throughput. Spatially resolved omic techniques extend this capability by retaining the native tissue architecture, while multi-omic approaches integrate measurement of several features within the same cells. Collectively, these developments have reshaped how we investigate biological complexity across development, physiology, and disease.
 
@@ -28,7 +28,7 @@ Our lab develops applied scalable bioinformatic workflows that assemble and exte
 
 To learn more about our work in this area, see our studies on transcript enrichment and detection bias in single-nucleus versus whole-cell RNA-seq, and on custom pseudotemporal ordering strategies for adipose tissue biology.
 
-## Dissecting tumor-microenvironmental heterogeneity and their co-evolution during cancer progression
+## Tumor-microenvironmental heterogeneity and their co-evolution during cancer progression
 
 Cancer is a heterogeneous disease where multiple tumor cell states coexist within the same tumor. These states often arise through stepwise genetic diversification, but are further shaped by dynamic interactions with the tumor microenvironment, whose composition and function are in turn remodeled by the tumor cells itself. Together, what emerges is a spatially and temporally evolving ecosystem, ultimately selecting for cellular states that can invade, metastasize, or resist therapy.
 
