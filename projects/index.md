@@ -20,8 +20,9 @@ To learn more about our work in this area, see our publications on non-destructi
 
 {%
   include figure.html
-  image="images/aim1.002.png"
+  image="images/hd.001.png"
   width="800px"
+  caption="Single-cell resolution tissue architecture generated using spatial transcriptomics assay developed in our prior work"
 %}
 
 {% include section.html %}
@@ -34,8 +35,9 @@ To learn more about our work in this area, see our studies on transcript enrichm
 
 {%
   include figure.html
-  image="images/aim1.002.png"
+  image="images/hd.001.png"
   width="800px"
+  caption="Single-cell resolution tissue architecture generated using spatial transcriptomics assay developed in our prior work"
 %}
 
 {% include section.html %}
