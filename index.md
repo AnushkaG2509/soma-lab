@@ -12,19 +12,24 @@ The SOMa Lab develops and applies next-generation single-cell and spatial multi-
 
 We connect clinical samples and patient-derived disease models with in-house developed spatial omic technologies, and biology‑ and measurement‑aware computational approaches to push the boundaries of what can be measured and understood in tissues, generating unprecedented insight into the cellular basis of health and disease.
 
-Our work draws on concepts from bioinformatics, integrative multi-omics, spatial barcoding, assay development, quantitative optical imaging, and next-generation sequencing.
+### Our Mission & Philosophy
 
-### Our Mission & Philosophy Test 5
-
-We are a group of curiosity‑driven scientists motivated by problems that matter to researchers, biologists, and clinicians today. To identify and tackle the right questions, we rely on strong multi-institutional and multi-disciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
+We are a group of curiosity‑driven scientists motivated by problems that matter to researchers today. To identify and tackle the right questions, we rely on multi-disciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
 
 {% include section.html %}
+
+{%
+  include figure.html
+  image="images/home.001.png"
+  width="800px"
+  caption="Overview of SOMa Lab's Research"
+%}
 
 ## Explore SOMa Lab
 
 {% capture text %}
 
-We are developing novel single-cell and spatial multi-omics technologies, together with advanced computaional methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as adipose tissue dysfunction in diabetes, immuno-oncology, and cancer metastasis & therapy resistance.
+We are developing novel single-cell and spatial multi-omics technologies, together with advanced computaional methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as obesity, diabetes, and oncology. 
 
 {%
   include button.html
