@@ -6,15 +6,20 @@ nav:
 
 # Publications
 
+Our published journal/conference papers, book chapters and granted patents are tabulated below.
+
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="High-definition spatial transcriptomic profiling of immune cell populations in colorectal cancer" style="rich" %}
+{% include citation.html lookup="Mapping the transcriptional landscape of human white and brown adipogenesis using single-nuclei RNA-seq" style="rich" %}
+{% include citation.html lookup="Characterization of transcript enrichment and detection bias in single-nucleus RNA-seq for mapping of distinct human adipocyte lineages" style="rich" %}
 
 {% include section.html %}
 
 ## Preprints
+{% include citation.html lookup="Characterization of transcript enrichment and detection bias in single-nucleus RNA-seq for mapping of distinct human adipocyte lineages" style="rich" %}
 
 {% include section.html %}
 ## All
