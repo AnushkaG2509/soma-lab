@@ -16,14 +16,14 @@ We connect clinical samples and patient-derived disease models with in-house dev
 
 We are a group of curiosity‑driven scientists motivated by problems that matter to researchers today. To identify and tackle the right questions, we rely on multi-disciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
 
-{% include section.html %}
-
 {%
   include figure.html
   image="images/home.001.png"
   width="800px"
   caption="Overview of SOMa Lab's Research"
 %}
+
+{% include section.html %}
 
 ## Explore SOMa Lab
 
