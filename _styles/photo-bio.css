@@ -1,0 +1,130 @@
+/* Photo + description (side-by-side) */
+.photo-bio {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+
+.photo-bio__photo {
+  width: 180px;
+  max-width: 180px;
+  flex: 0 0 180px;
+}
+
+.photo-bio__photo img {
+  display: block;
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+  border-radius: 0.75rem;
+  object-fit: cover;
+}
+
+.photo-bio__text {
+  min-width: 0;
+  text-align: left; /* prevent any site-wide centering */
+  max-width: 52rem;
+}
+
+/* Typography to match the "right" example */
+.photo-bio__name {
+  margin: 0 0 0.6rem 0;
+  font-size: 1.6rem;
+  line-height: 1.45;
+  font-weight: 800;
+  border: 0;
+  text-decoration: none;
+}
+
+.photo-bio__subtitle {
+  margin: 0 0 0.6rem 0;
+  font-size: 1.3rem;
+  line-height: 1.45;
+  font-weight: 500;
+  border: 0;
+}
+
+.photo-bio__details {
+  margin: 0;
+  font-size: 1.3rem;
+  line-height: 1.45;
+  opacity: 1;
+  border: 0;
+}
+
+/* If the name is a link, keep it looking like the name */
+.photo-bio__name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.photo-bio__name a:hover {
+  text-decoration: underline;
+}
+
+/* Size presets */
+.photo-bio--sm .photo-bio__photo {
+  width: 120px;
+  max-width: 120px;
+  flex: 0 0 120px;
+}
+
+.photo-bio--md .photo-bio__photo {
+  width: 180px;
+  max-width: 180px;
+  flex: 0 0 180px;
+}
+
+.photo-bio--lg .photo-bio__photo {
+  width: 240px;
+  max-width: 240px;
+  flex: 0 0 240px;
+}
+
+.photo-bio--sm .photo-bio__photo img {
+  max-width: 120px;
+}
+
+.photo-bio--md .photo-bio__photo img {
+  max-width: 180px;
+}
+
+.photo-bio--lg .photo-bio__photo img {
+  max-width: 240px;
+}
+
+/* Optional right image */
+.photo-bio--right {
+  flex-direction: row-reverse;
+}
+
+/* Mobile: stack */
+@media (max-width: 640px) {
+  .photo-bio {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .photo-bio--right {
+    flex-direction: column;
+  }
+  .photo-bio__name {
+    font-size: 1.7rem;
+  }
+  .photo-bio__subtitle,
+  .photo-bio__details {
+    font-size: 1.05rem;
+  }
+  .photo-bio--lg .photo-bio__photo,
+  .photo-bio--md .photo-bio__photo {
+    width: 160px;
+    max-width: 160px;
+    flex: 0 0 160px;
+  }
+  .photo-bio--lg .photo-bio__photo img,
+  .photo-bio--md .photo-bio__photo img {
+    max-width: 160px;
+  }
+}
+
+/*# sourceMappingURL=photo-bio.css.map */
