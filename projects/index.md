@@ -35,9 +35,9 @@ To learn more about our work in this area, see our studies on transcript enrichm
 
 {%
   include figure.html
-  image="images/hd.001.png"
+  image="images/broad_aim2.png"
   width="800px"
-  caption="Single-cell resolution tissue architecture generated using spatial transcriptomics assay developed in our prior work"
+  caption="single-nucleus versus whole-cell RNA-seq comparative analysis and custom pseudotemporal ordering strategies for adipose tissue biology"
 %}
 
 {% include section.html %}
