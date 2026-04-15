@@ -12,7 +12,7 @@ We are actively looking for highly motivated and curious undergraduate, graduate
 ## **<span style="font-size: 1.3em;">Principal Investigator</span>**
 
 {% include photo_bio.html
-  image="images/team.png"
+  image="images/anushka_headshot.jpg"
   name="Prof. Anushka Gupta"
   subtitle="Assistant Professor"
   details="Department of Bioengineering<br> Indian Institute of Technology (IIT) Madras"
