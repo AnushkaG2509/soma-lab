@@ -1,217 +1,195 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.ymssp.2024.111202
-  title: Predicting device-to-device frequency response function variation during
-    high-volume manufacturing of a hardware device
+- id: doi:10.1038/s41588-025-02193-3
+  title: High-definition spatial transcriptomic profiling of immune cell populations
+    in colorectal cancer
   authors:
-  - Siddhesh Vivek Sakhalkar
-  - Brandon Kaplan
-  - Rasool Koosha
-  - Hitoshi Shindo
-  publisher: Mechanical Systems and Signal Processing
-  date: '2024-04-01'
-  link: https://doi.org/hbjmrw
-  orcid: 0000-0001-7726-0482
+  - Michelli Faria de Oliveira
+  - Juan Pablo Romero
+  - Meii Chung
+  - Stephen R. Williams
+  - Andrew D. Gottscho
+  - Anushka Gupta
+  - Susan E. Pilipauskas
+  - Seayar Mohabbat
+  - Nandhini Raman
+  - David J. Sukovich
+  - David M. Patterson
+  - Michelli Faria de Oliveira
+  - Juan Pablo Romero
+  - Stephen R. Williams
+  - David M. Patterson
+  - Sarah E. B. Taylor
+  - Sarah E. B. Taylor
+  publisher: Nature Genetics
+  date: '2025-06-01'
+  link: https://doi.org/g9pjcd
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9780791887219
-  title: 'Proceedings of the ASME 2023 32nd Conference on Information Storage and
-    Processing Systems (ISPS2023): August 28-29, 2023, Milpitas, California'
-  authors: []
-  publisher: the American Society of Mechanical Engineers
-  date: '2023-01-01'
-  link: ''
-  orcid: 0000-0001-7726-0482
+- id: doi:10.1101/2024.06.04.597233
+  title: Characterization of immune cell populations in the tumor microenvironment
+    of colorectal cancer using high definition spatial profiling
+  authors:
+  - Michelli F. Oliveira
+  - Juan P. Romero
+  - Meii Chung
+  - Stephen Williams
+  - Andrew D. Gottscho
+  - Anushka Gupta
+  - Susan E. Pilipauskas
+  - Syrus Mohabbat
+  - Nandhini Raman
+  - David Sukovich
+  - David Patterson
+  - Sarah E. B. Taylor
+  publisher: openRxiv
+  date: '2024-06-05'
+  link: https://doi.org/hbkq9x
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1063/5.0092170
-  title: Direct measurement of disk-to-head back-heating in HAMR using a non-flying
-    test stage
+- id: doi:10.1016/j.molmet.2023.101746
+  title: Mapping the transcriptional landscape of human white and brown adipogenesis
+    using single-nuclei RNA-seq
   authors:
-  - Qilong Cheng
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: Applied Physics Letters
-  date: '2022-06-13'
-  link: https://doi.org/hbjmr5
-  orcid: 0000-0001-7726-0482
+  - Anushka Gupta
+  - Vissarion Efthymiou
+  - Sean D. Kodani
+  - Farnaz Shamsi
+  - Mary Elizabeth Patti
+  - Yu-Hua Tseng
+  - Aaron Streets
+  publisher: Molecular Metabolism
+  date: '2023-08-01'
+  link: https://doi.org/hbkq9z
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1063/5.0029051
-  title: Measurement of angstrom-level laser induced protrusion using touchdown in
-    heat-assisted magnetic recording
+- id: doi:10.1101/2022.05.30.494007
+  title: Mapping the temporal transcriptional landscape of human white and brown adipogenesis
+    using single-nuclei RNA-seq
   authors:
-  - Qilong Cheng
-  - Haoyu Wang
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: Applied Physics Letters
-  date: '2020-10-12'
-  link: https://doi.org/hbjmr6
-  orcid: 0000-0001-7726-0482
+  - Anushka Gupta
+  - Farnaz Shamsi
+  - Mary Elizabeth Patti
+  - Yu-Hua Tseng
+  - Aaron Streets
+  publisher: openRxiv
+  date: '2022-05-30'
+  link: https://doi.org/hbkq92
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1063/5.0012516
-  title: Investigation of heat transfer across a nanoscale air gap between a flying
-    head and a rotating disk
+- id: doi:10.1101/gr.275509.121
+  title: Characterization of transcript enrichment and detection bias in single-nucleus
+    RNA-seq for mapping of distinct human adipocyte lineages
   authors:
-  - S. Sakhalkar
-  - Q. Cheng
-  - A. Ghafari
-  - D. Bogy
-  publisher: Journal of Applied Physics
-  date: '2020-08-25'
-  link: https://doi.org/hbjmr7
-  orcid: 0000-0001-7726-0482
+  - Anushka Gupta
+  - Farnaz Shamsi
+  - Nicolas Altemose
+  - Gabriel F. Dorlhiac
+  - Aaron M. Cypess
+  - Andrew P. White
+  - Nir Yosef
+  - Mary Elizabeth Patti
+  - Yu-Hua Tseng
+  - Aaron Streets
+  publisher: Genome Research
+  date: '2022-01-18'
+  link: https://doi.org/gpthfg
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1115/isps2020-1903
-  title: Experimental Study on Laser-Induced Protrusion in Heat-Assisted Magnetic
-    Recording
+- id: doi:10.1038/s42255-021-00373-z
+  title: Vascular smooth muscle-derived Trpv1+ progenitors are a source of cold-induced
+    thermogenic adipocytes
   authors:
-  - Qilong Cheng
-  - Haoyu Wang
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: ASME 2020 29th Conference on Information Storage and Processing Systems
-  date: '2020-06-24'
-  link: https://doi.org/hbjmr8
-  orcid: 0000-0001-7726-0482
+  - Farnaz Shamsi
+  - Mary Piper
+  - Li-Lun Ho
+  - Tian Lian Huang
+  - Anushka Gupta
+  - Aaron Streets
+  - Matthew D. Lynes
+  - Yu-Hua Tseng
+  publisher: Nature Metabolism
+  date: '2021-04-12'
+  link: https://doi.org/g8vn9h
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1115/isps2020-1906
-  title: Numerical and Experimental Investigation of Nanoscale Heat Transfer Between
-    a Flying Head Over a Rotating Disk
+- id: doi:10.1101/2021.03.24.435852
+  title: Characterization of transcript enrichment and detection bias in single-nuclei
+    RNA-seq for mapping of distinct human adipocyte lineages
   authors:
-  - Siddhesh V. Sakhalkar
-  - Qilong Cheng
-  - David B. Bogy
-  publisher: ASME 2020 29th Conference on Information Storage and Processing Systems
-  date: '2020-06-24'
-  link: https://doi.org/hbjmr9
-  orcid: 0000-0001-7726-0482
+  - Anushka Gupta
+  - Farnaz Shamsi
+  - Nicolas Altemos
+  - Gabriel F. Dorlhiac
+  - Aaron M. Cypess
+  - Andrew P. White
+  - Mary Elizabeth Patti
+  - Yu-Hua Tseng
+  - Aaron Streets
+  publisher: openRxiv
+  date: '2021-03-25'
+  link: https://doi.org/gszbxm
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1063/5.0010286
-  title: Dependence of nanoscale heat transfer across a closing gap on the substrate
-    material and ambient humidity
+- id: doi:10.1039/D0LC00169D
+  title: "\u03BCCB-seq: microfluidic cell barcoding and sequencing for high-resolution\
+    \ imaging and sequencing of single cells"
   authors:
-  - Qilong Cheng
-  - Siddhesh Sakhalkar
-  - Amin Ghafari
-  - Yuan Ma
-  - David Bogy
-  publisher: Applied Physics Letters
-  date: '2020-05-26'
-  link: https://doi.org/g8fr58
-  orcid: 0000-0001-7726-0482
+  - Tyler N. Chen
+  - Anushka Gupta
+  - Mansi D. Zalavadia
+  - Aaron Streets
+  publisher: Lab on a Chip
+  date: '2020-01-01'
+  link: https://doi.org/ghqb8k
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1063/1.5119721
-  title: Numerical and experimental investigation of heat transfer across a nanoscale
-    gap between a magnetic recording head and various media
+- id: doi:10.1039/C8AN01525B
+  title: Quantitative imaging of lipid droplets in single cells
   authors:
-  - S. Sakhalkar
-  - Q. Cheng
-  - A. Ghafari
-  - Y. Ma
-  - D. Bogy
-  publisher: Applied Physics Letters
-  date: '2019-11-25'
-  link: https://doi.org/hbjmsb
-  orcid: 0000-0001-7726-0482
+  - Anushka Gupta
+  - Gabriel F. Dorlhiac
+  - Aaron M. Streets
+  publisher: The Analyst
+  date: '2019-01-01'
+  link: https://doi.org/hbkq93
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TMAG.2018.2885434
-  title: Viscoelastic Lubricant Deformation and Disk-to-Head Transfer During Heat-Assisted
-    Magnetic Recording
-  authors:
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: IEEE Transactions on Magnetics
-  date: '2019-07-01'
-  link: https://doi.org/hbjmsc
-  orcid: 0000-0001-7726-0482
+- title: 'Ceria-Based Nanocrystalline Oxide Catalysts: Synthesis, Characterization,
+    and Applications'
+  publisher: Nanomaterials
+  date: '2024-12-01'
+  link: https://www.taylorfrancis.com/chapters/edit/10.1201/b21267-10/ceria-based-nanocrystalline-oxide-catalysts-synthesis-characterization-applications-anushka-gupta-sai-phani-kumar-manjusha-padole-mallika-saharia-sravan-kumar-parag-deshpande
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1115/isps2019-7448
-  title: Numerical and Experimental Investigation of Nanoscale Heat Transfer in the
-    Head-Media Interface During Static Touchdown
+- id: doi:10.1039/c6ra10412f
+  title: Digital microfluidic platform for dielectrophoretic patterning of cells encapsulated
+    in hydrogel droplets
   authors:
-  - Siddhesh V. Sakhalkar
-  - Qilong Cheng
-  - Yuan Ma
-  - Amin Ghafari
-  - David B. Bogy
-  publisher: ASME 2019 28th Conference on Information Storage and Processing Systems
-  date: '2019-06-27'
-  link: https://doi.org/hbjmsd
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11249-018-1100-4
-  title: Effect of Rheology and Slip on Lubricant Deformation and Disk-to-Head Transfer
-    During Heat-Assisted Magnetic Recording (HAMR)
-  authors:
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: Tribology Letters
-  date: '2018-10-25'
-  link: https://doi.org/hbjmsf
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11249-018-1016-z
-  title: 'Correction to: A Model for Lubricant Transfer from Media to Head During
-    Heat-Assisted Magnetic Recording (HAMR) Writing'
-  authors:
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: Tribology Letters
-  date: '2018-04-16'
-  link: https://doi.org/hbjmsg
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11249-017-0952-3
-  title: A Model for Lubricant Transfer from Media to Head During Heat-Assisted Magnetic
-    Recording (HAMR) Writing
-  authors:
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: Tribology Letters
-  date: '2017-11-13'
-  link: https://doi.org/gcmxmx
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.4271/2014-01-1776
-  title: Implementation of an Electronic Differential Using Torque Vectoring
-  authors:
-  - Siddhesh Sakhalkar
-  - Parveen Dhillon
-  - Pranay Kumar
-  - Soovadeep Bakshi
-  - Puneet Singh Arora
-  publisher: SAE Technical Paper Series
-  date: '2014-04-01'
-  link: https://doi.org/hbjmsh
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.4271/2014-01-1781
-  title: Powertrain Model for Selection of Reduction Ratio and Estimation of Energy
-    Requirement
-  authors:
-  - Siddhesh Sakhalkar
-  - Parveen Dhillon
-  - Soovadeep Bakshi
-  - Pranay Kumar
-  - Puneet Singh Arora
-  publisher: SAE Technical Paper Series
-  date: '2014-04-01'
-  link: https://doi.org/hbjmsj
-  orcid: 0000-0001-7726-0482
+  - B. A. Nestor
+  - E. Samiei
+  - R. Samanipour
+  - A. Gupta
+  - A. Van den Berg
+  - M. Diaz de Leon Derby
+  - Z. Wang
+  - H. Rezaei Nejad
+  - K. Kim
+  - M. Hoorfar
+  publisher: RSC Advances
+  date: '2016-01-01'
+  link: https://doi.org/gswzgv
+  orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
 - title: Management of actuator dynamics in a multiple actuator hard disk drive with
