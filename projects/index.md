@@ -36,7 +36,7 @@ To learn more about our work in this area, see our studies on transcript enrichm
 {%
   include figure.html
   image="images/aim2.001.png"
-  width="600px"
+  width="700px"
   caption="single-nucleus versus whole-cell RNA-seq comparative analysis and custom pseudotemporal ordering strategies for adipose tissue biology"
 %}
 
