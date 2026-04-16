@@ -4,73 +4,19 @@ nav:
   order: 5
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you would like to get in touch with us, please feel free to reach out to Prof. Gupta.
 
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+### **Email Address:**
+[agupta@iitm.ac.in](mailto:agupta@iitm.ac.in) (agupta[at]iitm[dot]ac[dot]in)
 
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+### **Office/Lab Address:**
+<b>Office<b>: Room No. 221, Block 2,\
+<b>Lab<b>: Room No. 303A, Block 2,\
+Department of Biotechnology,\
+Bhupat and Jyoti Mehta School of Biosciences,\
+Indian Institute of Technology Madras,\
+Chennai - 600036,\
+Tamil Nadu, India \
+**Google Maps Link:** [https://maps.app.goo.gl/anv4sskKdRDzw6LM6)
