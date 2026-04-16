@@ -19,7 +19,7 @@ We are a group of curiosity‑driven scientists motivated by problems that matte
 {%
   include figure.html
   image="images/home.001.png"
-  width="1600px"
+  width="1800px"
   caption="Overview of SOMa Lab's Research"
 %}
 
