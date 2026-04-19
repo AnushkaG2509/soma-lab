@@ -33,7 +33,7 @@ We are developing novel single-cell and spatial multi-omic technologies, togethe
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -45,7 +45,7 @@ We are developing novel single-cell and spatial multi-omic technologies, togethe
 {%
   include feature.html
   image="images/research.png"
-  link="projects"
+  link="research"
   title="Our Research"
   flip=true
   text=text
@@ -56,7 +56,7 @@ We are developing novel single-cell and spatial multi-omic technologies, togethe
 Our publications span technology development, computational methods, and disease-focused studies. Read more about our recent work on a new spatial transcriptomics platform, adipose tissue dysfunction in obesity, and integrative analysis of scRNA-seq and snRNA-seq datasets.
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -68,7 +68,7 @@ Our publications span technology development, computational methods, and disease
 {%
   include feature.html
   image="images/publication_2.png"
-  link="research"
+  link="publications"
   title="Our Publications"
   text=text
 %}
