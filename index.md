@@ -100,7 +100,7 @@ Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab,
 
 {% capture text %}
 
-We are always looking to collaborate with researchers, biologists, and clinicians to identify biological questions where spatial context, multimodal measurements, and integrative analysis are essential for new insights. To explore potential collaborations, reach out at agupta@iitm.ac.in. 
+We are always looking to collaborate with researchers, biologists, and clinicians to identify biological questions where spatial context, multimodal measurements, and integrative analysis are essential for new insights. To explore potential collaborations, reach out at [agupta@iitm.ac.in](mailto:agupta@iitm.ac.in). 
 
 {%
   include button.html
