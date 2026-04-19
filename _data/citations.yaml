@@ -136,3 +136,30 @@
   orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.09.14.673351
+  title: Single-Nucleus Analysis of Human White Adipose Tissue Reveals Adipocyte Subsets
+    with Distinct Metabolic Profiles
+  authors:
+  - Vissarion Efthymiou
+  - Adhideb Ghosh
+  - Sean D. Kodani
+  - Xavier Caubit
+  - Laurent Fasano
+  - Waqar Ali
+  - Lindsay S. Poulos
+  - Henrique Camara
+  - Anushka Gupta
+  - Yasmine Belaidouni
+  - A. Sina Booeshaghi
+  - Shiyi Yang
+  - Ruchir Rastogi
+  - Farnaz Shamsi
+  - Ashley Vernon
+  - Aaron Streets
+  - Yu-Hua Tseng
+  - Mary Elizabeth Patti
+  publisher: openRxiv
+  date: '2025-09-16'
+  link: https://doi.org/hbxnvx
+  plugin: sources.py
+  file: sources.yaml
