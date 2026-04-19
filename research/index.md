@@ -21,7 +21,7 @@ To learn more about our work in this area, see our publications on a [microfluid
 {%
   include figure.html
   image="images/hd.001.png"
-  width="800px"
+  width="600px"
   caption="Single-cell resolution tissue architecture generated using spatial transcriptomics assay developed in our prior work"
 %}
 
@@ -36,7 +36,7 @@ To learn more about our work in this area, see our studies on [transcript enrich
 {%
   include figure.html
   image="images/aim2.001.png"
-  width="700px"
+  width="600px"
   caption="single-nucleus versus whole-cell RNA-seq comparative analysis and custom pseudotemporal ordering strategies for adipose tissue biology"
 %}
 
@@ -51,7 +51,7 @@ To learn more about our work, read our paper on [spatial transcriptomic profilin
 {%
   include figure.html
   image="images/aim3.001.png"
-  width="600px"
+  width="500px"
   caption="Landscape of immune cell infiltration in colorectal cancer"
 %}
 
