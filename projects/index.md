@@ -51,7 +51,7 @@ To learn more about our work, read our paper on [spatial transcriptomic profilin
 {%
   include figure.html
   image="images/aim3.001.png"
-  width="800px"
+  width="600px"
   caption="Landscape of immune cell infiltration in colorectal cancer"
 %}
 
