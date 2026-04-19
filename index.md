@@ -76,7 +76,7 @@ Our publications span technology development, computational methods, and disease
 
 {% capture text %}
 
-Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab, we are actively looking for highly motivated and curious undergraduate, graduate (Masters/PhD), post-doctoral, and project associate candidates to join our team! Please [contact Prof. Gupta](mailto:agupta@iitm.ac.in) and include a CV with your research interests.
+Prof. Anushka Gupta is the Principal Investigator of the SOMa Lab. As a new lab, we are actively looking for highly motivated and curious undergraduate, graduate (Masters/PhD), post-doctoral, and project associate candidates to join our team! To apply, please contact [Prof. Gupta](mailto:agupta@iitm.ac.in) and include a CV with your research interests.
 
 {%
   include button.html
