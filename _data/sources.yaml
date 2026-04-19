@@ -1,11 +1,8 @@
-- title: "Management of actuator dynamics in a multiple actuator hard disk drive with an unequal number of heads on the two outer arms of each actuator"
-  authors:
-    - Manoj Keshavan
-    - Siddhesh Vivek Sakhalkar
-    - Hitoshi Shindo
-  publisher: "US Patent 11664047B2"
-  date: "2023-05-30"
-  link: "https://patents.google.com/patent/US11664047B2/en"
-
 - id: doi:10.1101/2024.06.04.597233
+  remove: true
+
+- id: doi:10.1101/2022.05.30.494007
+  remove: true
+
+- id: doi:10.1101/2021.03.24.435852
   remove: true
