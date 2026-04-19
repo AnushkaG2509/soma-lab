@@ -10,7 +10,7 @@ The SOMa Lab develops and applies next-generation single-cell and spatial multi-
 
 ### Our Approach
 
-We connect clinical samples and patient-derived disease models with in-house developed spatial omic technologies, and biology‑ and measurement‑aware computational approaches to push the boundaries of what can be measured and understood in tissues, generating unprecedented insight into the cellular basis of health and disease.
+We connect clinical samples and patient-derived disease models with our developed spatial technologies, and biology‑ and measurement‑aware computational approaches to push the boundaries of what can be measured and understood in tissues, generating unprecedented insight into the cellular basis of health and disease.
 
 ### Our Mission & Philosophy
 
