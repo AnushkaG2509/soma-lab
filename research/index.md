@@ -6,7 +6,7 @@ nav:
 
 # Research Areas
 
-We are developing novel single-cell and spatial multi-omics technologies, together with advanced computaional methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as adipose tissue dysfunction in diabetes, immuno-oncology, and cancer metastasis & therapy resistance.
+We are developing novel single-cell and spatial multi-omics technologies, together with advanced computational methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as adipose tissue dysfunction in diabetes, immuno-oncology, and cancer metastasis & therapy resistance.
 
 {% include search-info.html %}
 
