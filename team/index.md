@@ -24,7 +24,7 @@ Dr. Anushka Gupta is an Assistant Professor in the Department of Biotechnology a
 
 Dr. Gupta holds a B.Tech. and M.Tech in Chemical Engineering from Indian Institute of Technology Kharagpur and a Ph.D. in Bioengineering from the University of California, Berkeley. Prior to joining IIT Madras, Dr. Gupta worked as an assay development scientist in the Spatial Biology team at 10x Genomics, USA for four years. 
 
-During her doctoral research, conducted under the supervision of Prof. Aaron Streets, Dr. Anushka developed novel experimental and computational methods for investigating human adipose tissue heterogeneity and development at the single-cell level. At 10x Genomics, she developed state-of-the-art single-cell resolution spatial transcriptomics (ST) technologies: Visium HD and Visium HD 3’. She is a recipient of the 10x Genomics Exceptional Researcher Award and UC Berkeley Lloyd Fellowship in Bioengineering. Her full CV can be found here.
+During her doctoral research, conducted under the supervision of [Prof. Aaron Streets](https://bioeng.berkeley.edu/person/aaron-streets), Dr. Anushka developed [novel experimental and computational methods for investigating human adipose tissue heterogeneity and development at the single-cell level](https://escholarship.org/uc/item/2v38352w). At 10x Genomics, she developed state-of-the-art single-cell resolution spatial transcriptomics technologies: Visium HD and Visium HD 3’. She is a recipient of the 10x Genomics Exceptional Researcher Award and UC Berkeley Lloyd Fellowship in Bioengineering. Her full CV can be found [here](/documents/Gupta,Anushka_Resume.pdf).
  
 
 <div>
