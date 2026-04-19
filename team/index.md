@@ -37,3 +37,9 @@ During her doctoral research, conducted under the supervision of [Prof. Aaron St
 
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Current Students</span>**
+
+{% include photo_bio.html
+  image="images/Propective_student_headshot.png"
+  name="This could be you!"
+  size = "lg"
+%}
