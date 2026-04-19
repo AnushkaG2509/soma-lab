@@ -29,7 +29,7 @@ We are a group of curiosity‑driven scientists motivated by problems that matte
 
 {% capture text %}
 
-We are developing novel single-cell and spatial multi-omics technologies, together with advanced computaional methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as obesity, diabetes, and oncology. 
+We are developing novel single-cell and spatial multi-omic technologies, together with advanced computaional methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as obesity, diabetes, and oncology. 
 
 {%
   include button.html
