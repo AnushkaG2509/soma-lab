@@ -6,13 +6,13 @@ nav:
 
 ### Welcome to the SOMa Lab
 
-The SOMa Lab develops and applies next-generation single-cell and spatial multi-omics technologies, alongside advanced computational methods, to decode how cells organize and interact to sustain healthy tissues, and how these interactions collapse in disease.
+The SOMa Lab develops and applies next-generation single-cell and spatial multi-omic technologies, alongside advanced computational methods, to decode how cells organize and interact to sustain healthy tissues, and how these interactions collapse in disease.
 
 ### Our Approach
 
 We connect clinical samples and patient-derived disease models with in-house developed spatial omic technologies, and biology‑ and measurement‑aware computational approaches to push the boundaries of what can be measured and understood in tissues, generating unprecedented insight into the cellular basis of health and disease.
 
-### Our Mission & Philosophy Figure
+### Our Mission & Philosophy
 
 We are a group of curiosity‑driven scientists motivated by problems that matter to researchers today. To identify and tackle the right questions, we rely on multi-disciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
 
