@@ -19,7 +19,7 @@ Our published journal/conference papers, book chapters and granted patents are t
 {% include section.html %}
 
 ## Preprints
-{% include citation.html lookup="Characterization of transcript enrichment and detection bias in single-nucleus RNA-seq for mapping of distinct human adipocyte lineages" style="rich" %}
+{% include citation.html lookup="Single-Nucleus Analysis of Human White Adipose Tissue Reveals Adipocyte Subsets with Distinct Metabolic Profiles" style="rich" %}
 
 {% include section.html %}
 ## All
