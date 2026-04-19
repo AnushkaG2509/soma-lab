@@ -13,7 +13,7 @@ If you would like to get in touch with us, please feel free to reach out to Prof
 
 ### **Office/Lab Address:**
 **Office:** Room No. 221, Block 2 \
-**Lab:** Room No. 303A, Block 2 \
+**Lab:** Room No. 303A, Block 2 
 
 Department of Biotechnology,\
 Bhupat and Jyoti Mehta School of Biosciences,\
