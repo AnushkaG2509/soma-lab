@@ -44,21 +44,6 @@
   orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.05.30.494007
-  title: Mapping the temporal transcriptional landscape of human white and brown adipogenesis
-    using single-nuclei RNA-seq
-  authors:
-  - Anushka Gupta
-  - Farnaz Shamsi
-  - Mary Elizabeth Patti
-  - Yu-Hua Tseng
-  - Aaron Streets
-  publisher: openRxiv
-  date: '2022-05-30'
-  link: https://doi.org/hbkq92
-  orcid: 0000-0002-1137-3043
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/gr.275509.121
   title: Characterization of transcript enrichment and detection bias in single-nucleus
     RNA-seq for mapping of distinct human adipocyte lineages
@@ -94,25 +79,6 @@
   publisher: Nature Metabolism
   date: '2021-04-12'
   link: https://doi.org/g8vn9h
-  orcid: 0000-0002-1137-3043
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.03.24.435852
-  title: Characterization of transcript enrichment and detection bias in single-nuclei
-    RNA-seq for mapping of distinct human adipocyte lineages
-  authors:
-  - Anushka Gupta
-  - Farnaz Shamsi
-  - Nicolas Altemos
-  - Gabriel F. Dorlhiac
-  - Aaron M. Cypess
-  - Andrew P. White
-  - Mary Elizabeth Patti
-  - Yu-Hua Tseng
-  - Aaron Streets
-  publisher: openRxiv
-  date: '2021-03-25'
-  link: https://doi.org/gszbxm
   orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
@@ -170,14 +136,3 @@
   orcid: 0000-0002-1137-3043
   plugin: orcid.py
   file: orcid.yaml
-- title: Management of actuator dynamics in a multiple actuator hard disk drive with
-    an unequal number of heads on the two outer arms of each actuator
-  authors:
-  - Manoj Keshavan
-  - Siddhesh Vivek Sakhalkar
-  - Hitoshi Shindo
-  publisher: US Patent 11664047B2
-  date: '2023-05-30'
-  link: https://patents.google.com/patent/US11664047B2/en
-  plugin: sources.py
-  file: sources.yaml
