@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-### Welcome to the SOMa Lab
+### Welcome to the Spatial Omics and Bioinformatics (SOMa)Lab
 
 The SOMa Lab develops and applies next-generation single-cell and spatial multi-omic technologies, alongside advanced computational methods, to decode how cells organize and interact to sustain healthy tissues, and how these interactions collapse in disease.
 
