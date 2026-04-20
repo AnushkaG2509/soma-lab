@@ -1,1 +1,1 @@
-Sitemap: http://somalabgroup.com/sitemap.xml
+Sitemap: https://somalabgroup.com/sitemap.xml
