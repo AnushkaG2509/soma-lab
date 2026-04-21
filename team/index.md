@@ -10,8 +10,9 @@ We are always looking for highly motivated and curious undergraduate, graduate (
 
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Open Positions</span>**
+
 ### **<span style="font-size: 1.1em;">Post-baccalaureate Fellow</span>**
-We are hiring a Post-baccalaureate Fellow through the [IBSE program](https://ibse.iitm.ac.in/) in spatial transcriptomics data analysis. Please see our LinkedIn post for more details and how to apply.
+We are hiring a Post-baccalaureate Fellow through the [IBSE program](https://ibse.iitm.ac.in/) in spatial transcriptomics data analysis. Please see our [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7452241137140113408/) for more details and how to apply.
 
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Principal Investigator</span>**
