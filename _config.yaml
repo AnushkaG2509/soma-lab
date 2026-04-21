@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Spatial Omics and Bioinformatics Lab
-subtitle: subtitle: "<a href='https://biotech.iitm.ac.in' target='_blank'>Department of Biotechnology, IIT Madras</a><br><a href='https://ibse.iitm.ac.in' target='_blank'>Centre for Integrative Biology and Systems Medicine (IBSE), IIT Madras</a>"
+subtitle: "<a href='https://biotech.iitm.ac.in' target='_blank'>Department of Biotechnology, IIT Madras</a><br><a href='https://ibse.iitm.ac.in' target='_blank'>Centre for Integrative Biology and Systems Medicine (IBSE), IIT Madras</a>"
 description: 
 header: images/header.jpg
 footer: images/header.jpg
