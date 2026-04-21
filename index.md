@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-### Welcome to the <u><b>S</b></u>patial <u><b>O</b></u>mics and Bioinfor<u><b>ma</b></u>tics Lab
+### Welcome to the <u><b>S</b></u>patial <u><b>O</b></u>mics and Bioinfor<u><b>ma</b></u>tics (SOMa)Lab
 
 Our lab develops and applies next-generation single-cell and spatial multi-omic technologies, alongside advanced computational methods to decode how cells organize and interact to sustain healthy tissues, and how these interactions are disrupted in disease.
 
