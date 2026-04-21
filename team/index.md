@@ -6,7 +6,7 @@ nav:
 
 # Team
 
-We are actively looking for highly motivated and curious undergraduate, graduate (Masters/PhD), post-doctoral, and project associate candidates to join our team! If you would like to join us, please contact Prof. Gupta ([agupta@iitm.ac.in](mailto:agupta@iitm.ac.in)) and include your CV with research interests. We welcome researchers from diverse backgrounds including biotechnology, computational biology, computer science, data science and related fields.
+We are actively looking for highly motivated and curious undergraduate, graduate (Master's/PhD), post-doctoral, and project associate candidates to join our team! If you would like to join us, please contact Prof. Gupta ([agupta@iitm.ac.in](mailto:agupta@iitm.ac.in)) and include your CV and research interests. We welcome researchers from diverse backgrounds including biotechnology, computational biology, computer science, data science, and related fields.
 
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Principal Investigator</span>**
@@ -20,11 +20,11 @@ We are actively looking for highly motivated and curious undergraduate, graduate
 %}
 
 ### **<span style="font-size: 1.1em;">Bio</span>**
-Dr. Anushka Gupta is an Assistant Professor in the Department of Biotechnology at the Indian Institute of Technology Madras, where she leads the Spatial Omics and Bioinformatics (SOMa) Lab. Her lab develops and applies next-generation single-cell and spatial multi-omics technologies, alongside advanced computational methods, to decode how cells organize and interact to sustain healthy tissues, and how these interactions collapse in disease.
+Dr. Anushka Gupta is an Assistant Professor in the Department of Biotechnology at the Indian Institute of Technology Madras, where she leads the Spatial Omics and Bioinformatics (SOMa) Lab. Her lab develops and applies next-generation single-cell and spatial multi-omics technologies, alongside advanced computational methods to decode how cells organize and interact to sustain healthy tissues, and how these interactions are disrupted in disease.
 
-Dr. Gupta holds a B.Tech. and M.Tech in Chemical Engineering from Indian Institute of Technology Kharagpur and a Ph.D. in Bioengineering from the University of California, Berkeley. Prior to joining IIT Madras, Dr. Gupta worked as an assay development scientist in the Spatial Biology team at 10x Genomics, USA for four years. 
+Dr. Gupta holds a B.Tech. and M.Tech. in Chemical Engineering from the Indian Institute of Technology Kharagpur and a Ph.D. in Bioengineering from the University of California, Berkeley. Prior to joining IIT Madras, Dr. Gupta worked as an assay development scientist in the Spatial Biology team at 10x Genomics, USA for four years. 
 
-During her doctoral research, conducted under the supervision of [Prof. Aaron Streets](https://bioeng.berkeley.edu/person/aaron-streets), Dr. Anushka developed [novel experimental and computational methods for investigating human adipose tissue heterogeneity and development at the single-cell level](https://escholarship.org/uc/item/2v38352w). At 10x Genomics, she developed state-of-the-art single-cell resolution spatial transcriptomics technologies: Visium HD and Visium HD 3’. She is a recipient of the 10x Genomics Exceptional Researcher Award and UC Berkeley Lloyd Fellowship in Bioengineering. Her full CV can be found [here](Gupta,Anushka_Resume.pdf).
+During her doctoral research, under the supervision of [Prof. Aaron Streets](https://bioeng.berkeley.edu/person/aaron-streets), Dr. Anushka developed [novel experimental and computational methods for investigating human adipose tissue heterogeneity and development at the single-cell level](https://escholarship.org/uc/item/2v38352w). At 10x Genomics, she developed state-of-the-art single-cell resolution spatial transcriptomics technologies: Visium HD and Visium HD 3’. She is a recipient of the 10x Genomics Exceptional Researcher Award and UC Berkeley Lloyd Fellowship in Bioengineering. Her full CV can be found [here](Gupta,Anushka_Resume.pdf).
  
 
 <div>
