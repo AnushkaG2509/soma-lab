@@ -6,15 +6,15 @@ nav:
 
 ### Welcome to the <u><b>S</b></u>patial <u><b>O</b></u>mics and Bioinfor<u><b>ma</b></u>tics Lab
 
-The SOMa Lab develops and applies next-generation single-cell and spatial multi-omic technologies, alongside advanced computational methods, to decode how cells organize and interact to sustain healthy tissues, and how these interactions collapse in disease.
+Our lab develops and applies next-generation single-cell and spatial multi-omic technologies, alongside advanced computational methods to decode how cells organize and interact to sustain healthy tissues, and how these interactions are disrupted in disease.
 
 ### Our Approach
 
-We connect clinical samples and patient-derived models with our developed spatial technologies, and biology‑ and measurement‑aware computational approaches to push the boundaries of what can be measured and understood in tissues, generating unprecedented insight into the cellular basis of health and disease.
+We connect clinical samples and patient-derived models with our developed spatial technologies, and biology- and measurement-aware computational approaches to push the boundaries of what can be measured and understood in tissues, generating unprecedented insights into the cellular basis of health and disease.
 
 ### Our Mission & Philosophy
 
-We are a group of curiosity‑driven scientists motivated by problems that matter to researchers today. To identify and tackle the right questions, we rely on multi-disciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
+We are a group of curiosity‑driven scientists motivated by problems that matter to researchers today. To identify and tackle the right questions, we rely on multidisciplinary collaborations spanning academia, hospitals, and industry partners. Our long-term goal is to translate our findings into actionable outcomes, enabling biomarker discovery, patient stratification, and therapeutic development.
 
 {%
   include figure.html
@@ -29,7 +29,7 @@ We are a group of curiosity‑driven scientists motivated by problems that matte
 
 {% capture text %}
 
-We are developing novel single-cell and spatial multi-omic technologies, together with advanced computaional methods to push the boundary of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as obesity, diabetes, and oncology. 
+We are developing novel single-cell and spatial multi-omic technologies, together with advanced computational methods to push the boundaries of what can be measured and understood in tissues. We are using these methods to focus on diverse areas of biology such as obesity, diabetes, and oncology. 
 
 {%
   include button.html
