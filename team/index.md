@@ -8,11 +8,11 @@ nav:
 
 We are always looking for highly motivated and curious undergraduate, graduate (Master's/PhD), post-doctoral, and project associate candidates to join our team! If you would like to join us, please contact Prof. Gupta ([agupta@iitm.ac.in](mailto:agupta@iitm.ac.in)) and include your CV and research interests. We welcome researchers from diverse backgrounds including biotechnology, computational biology, computer science, data science, and related fields.
 
-{% include section.html %}
+<!--{% include section.html %}
 ## **<span style="font-size: 1.3em;">Open Positions</span>**
 
 ### **<span style="font-size: 1.1em;">Post-baccalaureate Fellow</span>**
-We are hiring a Post-baccalaureate Fellow through the [IBSE program](https://ibse.iitm.ac.in/) in spatial transcriptomics data analysis. Please see our [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7452241137140113408/) for more details and how to apply.
+We are hiring a Post-baccalaureate Fellow through the [IBSE program](https://ibse.iitm.ac.in/) in spatial transcriptomics data analysis. Please see our [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7452241137140113408/) for more details and how to apply.-->
 
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Principal Investigator</span>**
